@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+*.zip
+*.xlsx
+*_raw.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*.xlsx
